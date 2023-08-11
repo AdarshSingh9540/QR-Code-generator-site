@@ -1,1 +1,1 @@
-# QR-Code-generator-site
+I have developed a QR code generation website utilizing HTML, CSS, and JavaScript to provide users with the capability to effortlessly create QR codes. To enhance the functionality of the website, I have incorporated API integration. Specifically, I've integrated a QR code API to facilitate the seamless generation of QR codes. This project showcases my proficiency in web development, front-end technologies, and API utilization.
